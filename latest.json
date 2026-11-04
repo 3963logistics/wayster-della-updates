@@ -1,8 +1,8 @@
 {
   "packageName": "app.wayster.della",
-  "versionCode": 11,
-  "versionName": "0.3.8",
-  "apkUrl": "https://raw.githubusercontent.com/3963logistics/wayster-della-updates/main/releases/0.3.8/Wayster-DELLA-0.3.8-release.apk",
-  "sha256": "db8971704885dee831c568d626f0b3dda19bebf41f76ee1e4618d8afe9445c0d",
-  "notes": "Wayster DELLA 0.3.8: новий підписаний реліз з автоматичною перевіркою оновлень."
+  "versionCode": 12,
+  "versionName": "0.3.9",
+  "apkUrl": "https://raw.githubusercontent.com/3963logistics/wayster-della-updates/main/releases/0.3.9/Wayster-DELLA-0.3.9-release.apk",
+  "sha256": "bec2530344f1fd18fe0572c1dd50ddb15f171fde7a881d3d44c677f45dc9ab72",
+  "notes": "Wayster DELLA 0.3.9: новий підписаний реліз з автоматичною перевіркою оновлень."
 }
